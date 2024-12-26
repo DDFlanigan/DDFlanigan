@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-I am a Research Scientist in the Biotech sector looking to sharpen my data analysis skills and add tools to my toolbelt that will allow me to effectively analyze large, varied datasets.
+I'm Danny, a Research Scientist in the Biotech sector looking to sharpen my data analysis skills and add modern analytical tools to my toolbelt.
 
-<!--
-**DDFlanigan/DDFlanigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###About Me
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on buidling my Data Analytics skillset
-- 🌱 I’m currently learning SQL, Python, Tableau, and PowerBI
-- 👯 I’m looking to collaborate on Analytics Projects, ideally in the healthdcare sector
-
+- 🔬 Research Scientist with 5 years of professional experience
+- 📊 Leveraged Excel, VBA, PowerAutomate and PowerBI to help my R&D team analyze and comminucate data more effectively
+- 👨‍🎓 Life-long learner with a passion for deriving insights from data
+- 🌱 Currently learning SQL, Python, Tableau, and PowerBI
